@@ -21,7 +21,7 @@
 - Study lead: **Prof. Daniel Prieto-Alhambra, Dr. Annika Jödicke, Kristin Kostka**
 - Study lead forums tag: **[daniel_prieto](https://forums.ohdsi.org/u/daniel_prieto/summary), [annika](https://forums.ohdsi.org/u/annika)**, **[krfeeney](https://forums.ohdsi.org/u/krfeeney)**
 - Study start date: **1st October 2021**
-- Study end date: **31 March 2022**
+- Study end date: **31 January 2022**
 - Protocol: 
 - Publications: N/A
 - Results explorer: N/A 
