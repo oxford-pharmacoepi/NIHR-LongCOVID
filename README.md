@@ -4,13 +4,8 @@
 
 **Objective:** To evaluate the impact of covid vaccination on the prevention of long COVID using UK primary care data.
 
-## Study Parts
-1) A: To characterise long COVID in CPRD. <Br>
-  B: To test if the proposed observational analyses adequately account for confounding.
-
-2) To evaluate the impact of covid vaccination on the prevention of long COVID.
-
-3) To evaluate the comparative effectiveness of covid vaccines to prevent long COVID.   
+## Study Part
+1A: To characterise long COVID in CPRD.
   
 ## 1A: Characterising Long COVID
  <img src="https://img.shields.io/badge/Study%20Status-Started-blue.svg" alt="Study Status: Started">
